@@ -1,0 +1,4 @@
+upstream: https://github.com/netbox-community/netbox
+commit: 7d897955c5a3185bae6e33a8fa47f5fe2e2375fe
+license: Apache-2.0
+Unmodified snapshot except that .github/workflows was emptied.
